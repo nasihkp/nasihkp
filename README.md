@@ -37,17 +37,6 @@ I am actively involved in FOSS initiatives, contributing to collaborative projec
 ---
 
 ## 🚀 Notable Projects
-- **[Community Collaboration Tool](https://github.com/yourusername/project1)**  
-  A platform for community-driven collaboration, built with **React** and **Node.js**.  
-  *Key Features:* Real-time communication, task management, and analytics.  
-
-- **[FOSS Contribution Tracker](https://github.com/yourusername/project2)**  
-  A tool to track open-source contributions across multiple repositories using **Python** and **GitHub APIs**.  
-  *Key Features:* Contribution insights, personalized dashboards, and activity tracking.  
-
-- **[Tech for Social Good](https://github.com/yourusername/project3)**  
-  An initiative to develop software solutions addressing social challenges, built with **Django** and **PostgreSQL**.  
-  *Key Features:* Data analytics, community-driven development, and impact measurement.  
 
 ---
 
